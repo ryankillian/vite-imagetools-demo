@@ -1,0 +1,2 @@
+npm i @picocss/pico iconify-icon
+npm i -D vite-imagetools
